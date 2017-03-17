@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>Tropical 16_9</_name>
+    <filename>/usr/share/backgrounds/Naturelle-leaf.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#9dc200</pcolor>
+    <scolor>#9dc200</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Tropical 4_3</_name>
+    <filename>/usr/share/backgrounds/Naturelle_leaf_4-3.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#9dc200</pcolor>
+    <scolor>#9dc200</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

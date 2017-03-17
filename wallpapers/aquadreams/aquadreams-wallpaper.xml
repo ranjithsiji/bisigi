@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Aquadreams Wide</name>
+    <filename>/usr/share/backgrounds/AquaDreams-wide.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#b4c078</pcolor>
+    <scolor>#b4c078</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Aquadreams</name>
+    <filename>/usr/share/backgrounds/AquaDreams.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#b4c078</pcolor>
+    <scolor>#b4c078</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

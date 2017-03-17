@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Ubuntu-sunrise 16_9</name>
+    <filename>/usr/share/backgrounds/A_day_at_the_savannah_wide.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#b4c078</pcolor>
+    <scolor>#b4c078</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+   <name>ubuntu-sunrise 4_3</name>
+    <filename>/usr/share/backgrounds/A_day_at_the_savannah.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#b4c078</pcolor>
+    <scolor>#b4c078</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

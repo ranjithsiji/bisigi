@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>Bamboo Zen 16_9</_name>
+    <filename>/usr/share/backgrounds/Bamboo-Zen.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#b4c078</pcolor>
+    <scolor>#b4c078</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

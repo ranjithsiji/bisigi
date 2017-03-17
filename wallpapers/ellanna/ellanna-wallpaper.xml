@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>ellanna</name>
+    <filename>/usr/share/backgrounds/ellanna.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2F2A26</pcolor>
+    <scolor>#2F2A26</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Gnome Step Into Freedom</name>
+    <filename>/usr/share/backgrounds/gnome-step-into-freedom.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#0e2f4e</pcolor>
+    <scolor>#0e2f4e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>Gnome Step Into Freedom 1</name>
+    <filename>/usr/share/backgrounds/gnome-step-into-freedom1.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#0e2f4e</pcolor>
+    <scolor>#0e2f4e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>Gnome Step Into Freedom 16_9</name>
+    <filename>/usr/share/backgrounds/gnome-step-into-freedom-16_10.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#0e2f4e</pcolor>
+    <scolor>#0e2f4e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+    <name>Gnome Step Into Freedom 1 16_9</name>
+    <filename>/usr/share/backgrounds/gnome-step-into-freedom1-16_10.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#0e2f4e</pcolor>
+    <scolor>#0e2f4e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
